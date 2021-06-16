@@ -1,0 +1,1 @@
+<h1> Estamos na pagina PRODUTOS (produtos.blade.php) </h1><?php /**PATH W:\xampp\htdocs\aps01\resources\views/site/produtos.blade.php ENDPATH**/ ?>

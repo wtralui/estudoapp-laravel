@@ -1,0 +1,1 @@
+<h1> Estamos na pagina principal (principal.blade.php) </h1><?php /**PATH W:\xampp\htdocs\aps01\resources\views/principal.blade.php ENDPATH**/ ?>

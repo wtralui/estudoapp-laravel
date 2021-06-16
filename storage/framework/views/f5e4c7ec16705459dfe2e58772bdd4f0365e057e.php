@@ -1,0 +1,1 @@
+<h1> Estamos na pagina CLIENTES (clientes.blade.php) </h1><?php /**PATH W:\xampp\htdocs\aps01\resources\views/site/clientes.blade.php ENDPATH**/ ?>
